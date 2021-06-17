@@ -1,0 +1,60 @@
+html{font-family: 'Noto Sans KR', sans-serif;}
+		body, h1, img, p, ul{margin:0;}
+		img{display: block; width:100%; margin:auto;}
+		header, section, footer{margin:auto;}
+		nav{height: 66px;}
+		nav ul{height: 66px;}
+		nav ul li{list-style-type: none; height: 66px; text-align: center; line-height: 66px;}
+		nav ul li a{display: block; text-decoration: none; color: #38312f;}
+		header{height:571px; padding-bottom: 150px; padding-top: 62px; }
+		h1{margin: auto; font-weight:700; font-size:2.5em; padding-top: 5px; width:950px; margin-bottom: 10px;}
+		h2{margin: auto; font-weight:500; font-size:2.2em; padding-top: 5px; margin-bottom: 40px;}
+		h3{margin: auto; font-weight:700; font-size:1.3em; height: 60px; width: 510px;  padding-top: 25px; margin-bottom: 100px; text-align: center; background-color: white;}
+		p{margin-top:20px; margin-bottom:10px; line-height:210%; font-weight:400; word-spacing:-1px; font-size:0.9em; word-break: keep-all;}
+		footer{height: 180px; background-color: #9FA0A0;}
+		footer h2{margin-top:10px; margin-bottom: 0px;}
+		footer h1{text-align: right; width:280px; margin-bottom: -10px; }
+		.floating { position: fixed; right;: 50%; margin-top: 680px; margin-left: 50;}
+		.row{width:900px; margin: auto; display: flex; padding: 0px 5px; margin-bottom:20px; }
+		.row2{width:900px; margin: auto; display: flex; padding: 0px 5px; margin-top:250px; margin-bottom: 0px; }
+		.row3{width:900px; margin: auto; display: flex; padding: 0px 5px; margin-top:80px; margin-bottom: 0px;}
+		.row4{width:1200px; margin: auto; display: flex; padding: 0px 0px; margin-top:300px; margin-bottom:200px;}
+		.row4 p{margin-top:5px; margin-bottom:5px; line-height:210%; font-weight:400; word-spacing:-1px; text-align: right;  font-size:0.9em; word-break: keep-all;}
+		.row4 img{display: block; width: 90%; margin:auto;}
+		.row5{width:628px; height: 1336px; margin: auto; padding: 60px; margin-top:250px; margin-bottom:200px; background-color: #CEE5E2;}
+		.col-1{width:80px; margin:0px 10px;}
+		.col-2{width:180px; margin:0px 10px;}
+		.col-3{width:280px; margin:0px 10px;}
+		.col-4{width:380px; margin:0px 10px;}
+		.col-5{width:480px; margin:0px 10px;}
+		.col-6{width:580px; margin:0px 10px;}
+		.col-7{width:680px; margin:0px 10px;}
+		.col-8{width:780px; margin:0px 10px;}
+		.col-9{width:880px; margin:0px 10px;}
+		.rowheader{width:1000px; margin: auto; display: flex; padding: 0px 5px; margin-bottom:20px; }
+		.img1{display: block; width:100%; margin:auto; margin-top: 45px; margin-bottom: 160px;}
+		.img2{display: block; width:100%; margin:auto; margin-top: 30px; margin-bottom: 0px;}
+		.img3{display: block; width:100%; margin:auto; margin-top: 0px; margin-bottom: 200px;}
+		.img4{display: block; width:100%; margin:auto; margin-top: 100px; margin-bottom: 0px;}
+		.img5{display: block; width:100%; margin:auto; margin-top: 100px; margin-bottom: 300px;}
+		.p1 {margin-top:20px; margin-bottom:0px; font-size:1.1em; font-weight:400; word-spacing:-1px; word-break: keep-all;}
+		.p2 {margin-top:0px; margin-bottom:30px; font-weight:400; word-spacing:-1px; word-break: keep-all;}
+		.p3 {margin-top:20px; margin-bottom:10px; line-height:210%; font-weight:400; word-spacing:-1px; text-align: right;  font-size:0.9em; word-break: keep-all;}
+		.p4 {margin-top:20px; padding-bottom: 20px; line-height:210%; font-weight:400; word-spacing:-1px; text-align: right;  font-size:0.9em; word-break: keep-all;}
+		.p5 {padding-top:0px; padding-bottom: 0px; margin-bottom:10px; line-height:210%; font-weight:400; word-spacing:-1px; font-size:0.9em; word-break: keep-all;}
+		.p6 {margin-top:20px; padding-bottom: 50px; line-height:210%; font-weight:400; word-spacing:-1px; font-size:0.9em; word-break: keep-all;}
+		.p7 {padding-top:0px; padding-bottom: 0px; margin-bottom:10px; line-height:210%; font-weight:400; word-spacing:-1px; font-size:0.7em; word-break: keep-all;}
+		.p8 {padding-top:0px; padding-bottom: 23px; margin-bottom:10px; line-height:210%; font-weight:400; word-spacing:-1px; font-size:0.7em; word-break: keep-all;}
+		.p9 {padding-top:0px; padding-bottom: 0px; margin-bottom:-20px; line-height:210%; font-weight:400; word-spacing:-1px; font-size:0.8em; word-break: keep-all;}
+		.p3 footer {}
+		.sec1 {margin-top:200px; margin-bottom:30px;}
+		.sec2 {margin-bottom:80px;}
+		.h2right {margin: auto; font-weight:700; font-size:1.1em; padding-top: 5px; width:280px; margin-bottom: 40px; text-align: right;}
+		.h2right2 {margin: auto; font-weight:700; font-size:1.1em; padding-top: 5px; width:280px; margin-bottom: 10px; text-align: right;}
+		.h2left {margin: auto; font-weight:700; padding-top: 5px;  margin-bottom: 10px; text-align: left;}
+		.bg-cloth{background: url(../img/cloth.jpg); background-size: 100% auto; background-position: 0px 6676px; background-attachment: fixed; height: 250px; text-align: center; margin-top: 180px;}
+		.bg-cloth h1{color: white; padding-top: 100px;} 
+		.grad01 {background: linear-gradient(to bottom, white, gray );}
+		.grad02{background:}
+		.bgcolor{background-color: #C6D8E5;}
+		.bgcolor2{background-color: white; width: 1000px; margin: auto;}
